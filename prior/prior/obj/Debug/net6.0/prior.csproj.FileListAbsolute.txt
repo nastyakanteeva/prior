@@ -1,0 +1,15 @@
+C:\Users\Nitro 5\source\repos\prior\prior\bin\Debug\net6.0\prior.exe
+C:\Users\Nitro 5\source\repos\prior\prior\bin\Debug\net6.0\prior.deps.json
+C:\Users\Nitro 5\source\repos\prior\prior\bin\Debug\net6.0\prior.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\prior\prior\bin\Debug\net6.0\prior.dll
+C:\Users\Nitro 5\source\repos\prior\prior\bin\Debug\net6.0\prior.pdb
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\prior.csproj.AssemblyReference.cache
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\prior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\prior.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\prior.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\prior.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\prior.dll
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\refint\prior.dll
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\prior.pdb
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\prior.genruntimeconfig.cache
+C:\Users\Nitro 5\source\repos\prior\prior\obj\Debug\net6.0\ref\prior.dll
